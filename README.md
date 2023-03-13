@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arizalzr
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web and apps development
+- 🌱 I’m currently learn about Data Science and apps development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
